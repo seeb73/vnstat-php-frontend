@@ -14,8 +14,8 @@ $L['Last 30 days'] = 'Ostatnie 30 dni';
 $L['Last 12 months'] = 'Ostatnie 12 miesięcy';
 
 // traffic table columns
-$L['In'] = 'Wyjście';
-$L['Out'] = 'Wejście';
+$L['In'] = 'Wejście';
+$L['Out'] = 'Wyjście';
 $L['Total'] = 'Suma';
 
 // summary rows
